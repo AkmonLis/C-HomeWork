@@ -1,0 +1,30 @@
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.csproj.AssemblyReference.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.AssemblyInfoInputs.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.AssemblyInfo.cs
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.csproj.CoreCompileInputs.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\bin\Debug\net6.0\C#ss.exe
+C:\Users\Ak\Desktop\Новая папка\C#ss\bin\Debug\net6.0\C#ss.deps.json
+C:\Users\Ak\Desktop\Новая папка\C#ss\bin\Debug\net6.0\C#ss.runtimeconfig.json
+C:\Users\Ak\Desktop\Новая папка\C#ss\bin\Debug\net6.0\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\bin\Debug\net6.0\C#ss.pdb
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\refint\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.pdb
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\C#ss.genruntimeconfig.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\obj\Debug\net6.0\ref\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\bin\Debug\net6.0\C#ss.exe
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\bin\Debug\net6.0\C#ss.deps.json
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\bin\Debug\net6.0\C#ss.runtimeconfig.json
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\bin\Debug\net6.0\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\bin\Debug\net6.0\C#ss.pdb
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.csproj.AssemblyReference.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.AssemblyInfoInputs.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.AssemblyInfo.cs
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.csproj.CoreCompileInputs.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\refint\C#ss.dll
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.pdb
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\C#ss.genruntimeconfig.cache
+C:\Users\Ak\Desktop\Новая папка\C#ss\задача 1\obj\Debug\net6.0\ref\C#ss.dll
